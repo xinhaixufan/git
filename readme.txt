@@ -4,3 +4,4 @@ Git is free software
 ______________author:wflong____________________
 
 hello
+this is a learning note of git.
