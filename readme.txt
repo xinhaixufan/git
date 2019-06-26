@@ -1,7 +1,5 @@
-Git is a distributed version control system
-Git is free software
+C++ 学习历程
+牛客网部分代码
 
 ______________author:wflong____________________
 
-hello
-this is a learning note of git.
